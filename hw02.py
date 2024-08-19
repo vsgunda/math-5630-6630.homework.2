@@ -52,11 +52,11 @@ def p2():
 
     |name          | iter | 
     |--------------|------|
-`   |bisection     | 32   |
-    |secant        | 7    |
-    |newton        | 12   |
-    |regula_falsi  | 15   |
-    |steffensen    | 11   |
+`   |bisection     |      |
+    |secant        |      |
+    |newton        |      |
+    |regula_falsi  |      |
+    |steffensen    |      |
     """
 
 
