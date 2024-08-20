@@ -54,7 +54,7 @@ classdef hw02
         
         %     |name          | iter | 
         %     |--------------|------|
-        % `   |bisection     |      |
+        %     |bisection     |      |
         %     |secant        |      |
         %     |newton        |      |
         %     |regula_falsi  |      |

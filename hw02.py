@@ -52,7 +52,7 @@ def p2():
 
     |name          | iter | 
     |--------------|------|
-`   |bisection     |      |
+    |bisection     |      |
     |secant        |      |
     |newton        |      |
     |regula_falsi  |      |
