@@ -1,4 +1,4 @@
-# Coding Assignment 2: Root Finding
+# Programming Assignment 2: Root Finding
 
 Problems can be found on Canvas.
 
